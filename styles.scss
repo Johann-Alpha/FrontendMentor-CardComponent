@@ -1,0 +1,34 @@
+$body-background: #F2EAE2;
+$section-background: #FFFFFF;
+$text-light: #6C7289;
+$text-dark: #1C232B;
+$price-colour: #3D8168;
+$button-background: #3D8168; 
+
+body {
+    background-color: $body-background;
+}
+
+.price-now {
+    color: $price-colour;
+}
+
+button {
+    background-color: $price-colour;
+    color: $section-background;
+}
+
+main h2, main p, .price-before {
+    color: $text-light;
+}
+
+main h1 {
+    color: $text-dark;
+}
+
+.price-before {
+    text-decoration: line-through;
+}
+
+
+

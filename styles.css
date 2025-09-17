@@ -1,0 +1,24 @@
+body {
+  background-color: #F2EAE2;
+}
+
+.price-now {
+  color: #3D8168;
+}
+
+button {
+  background-color: #3D8168;
+  color: #FFFFFF;
+}
+
+main h2, main p, .price-before {
+  color: #6C7289;
+}
+
+main h1 {
+  color: #1C232B;
+}
+
+.price-before {
+  text-decoration: line-through;
+}/*# sourceMappingURL=styles.css.map */
